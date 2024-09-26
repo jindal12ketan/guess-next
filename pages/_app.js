@@ -1,5 +1,14 @@
 import "@/styles/globals.css";
 
-export default function App({ Component, pageProps }) {
-  return <Component {...pageProps} />;
+import GoogleAnalytics from "../components/GoogleAnalytics";
+
+function App({ Component, pageProps }) {
+  return (
+    <>
+      <GoogleAnalytics />
+      <Component {...pageProps} />
+    </>
+  );
 }
+
+export default App;

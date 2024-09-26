@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "guess-next-analytics",
+  "private_key_id": "258d8a01ca60a9c049b47e51e086e2b2e1669709",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCoj1F4xXB//Wa8\n4gR8RQZKwfvP96JGgFhcnoqcvXMP0YbawTSoXrkvPgNwmQfSh/MB7keD+0b2Y7Dp\nAK5p+Ac4rIpKUxC4R4rHly1h149FraABeG4VSNgs+dWS4RnNOogWKEdcaNsxCUtI\nRbEZxjTRjf4OR0y/oVW1IxW5FRnkvDbjHy5Q4eOnb870vdCE0I9g/YyfW9vVJVnI\nrfRHNSQvbdsEOGWqmmgSvn7Z4LFqy5wKFr8RLFyHLsM6vNcmXq6I/+C1+jo8n+n7\nxyiXwxcoV7irWLmc1gbzWN1SBbyOX/3ux6x+VpsugZ73J4vFAUDuqS07px4KQO5o\nHSSTLn17AgMBAAECgf8aqpG5CYNCvFQEjb0n68OTEB1GSWbiwGs6O9qx8UbCueMb\nuHUcLeAeGTFyHsOeCuPm6ktmFdqkICFcuz7chOCflqxKFdoPTUInUUNctz1zSISH\ntwWzWFLayqt/ER2D2j6tQrIHbI9Asre2N1BNQ44XmN8YYy9BIcTtYx+MqEnwZZSP\nFmKQ+tVQkobAET8wOkVXZ7P9Z/mLMDiG73hLmL0nGObLywuDzdOTO1c02Hz+/5j7\nJbWRvLZXphRZ4PE/KD3NTuymbOL8DXD6zGVQXGEz5YfwNjLiBYzghOzttVB2QHnJ\nMN0VoG4c4nDO1nIs21bceyhI+PnJ089B9pp1WQECgYEA0Mo711ZdWFz5c1Iowp10\nHMvkj+6WJwWCpKbASDlBC7MC9YLMbJcnlZxyysNyCvccbKHE3Dmn/0gpESyIMQmn\nTvl+3KJqgwcLNq8H+Q49e4qfuzIpj5mDsXez9zboBn921PeJGVtUar2snw7gXlpb\nPmgq+dbbn/0XZUK76NU6PQECgYEAzqxe9AgDmTtBokl+8wDOe6Cgm2ERyBdLs8VJ\nWGxZA/JkO4NaA8VkBctCwR68bpA2foyyqJV8Q3WhDbX557ChUy025LwEa+1GKAjc\nauBkx3YL2JdBQrLqdbpqGQD8kjeUOIeS9og0qi+iF/l7TPCiwe/ss0qwj11rSWYG\ndSA9LnsCgYEAqTMaZ5mvr8o4xQHR0lUzIZsCMLoSqLDIfJI9xMnRMp/xR/ClpWKh\nS5crV7Inm0dCm65FEIsQ38okraw++i5ujYuXCUn9sw1kQv55IZYusQ1YAKXYFG09\n0fXFvBOc2Jc3P8MSMaBXuuDXIVc28H+c7egQ28MI3JCIAyGfkkIqHgECgYA9gn2s\nIWp4w3MQStF2n0nU74R9WhGBvLUyJshigbSogQ6ly70RnEDdnJYchfpM6azeUx+l\nHwBhz3OEciGTfDU3XSCWSQMD4BVeOuzm/ivgVVjHOJUatcckDLwg/vMszU/W1zq9\nFuKduBmFCyJQTtoR4EdRQSx1LreMm8nWOCcdWwKBgQCJJyeUSdHRfFikB+5CCMjW\n7q/IfqpV1mKzh142Mvqt/SBQi9m1fWeDJyOMARV/qObuW3TlyI7iMvZr/xikjQ5W\ntMSrnpwoG/wNpEIbyGSrF87hINa+I/rfaWZXlXToRBwaPKpE6V7pdgFLOo3pv9ku\nxa2u9aKBNTNg3KvC0ZAMLw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "guess-next-analytics-account@guess-next-analytics.iam.gserviceaccount.com",
+  "client_id": "112873516757160586593",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/guess-next-analytics-account%40guess-next-analytics.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
