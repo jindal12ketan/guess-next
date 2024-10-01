@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "google-auth-library": "^9.14.1",
+    "googleapis": "^144.0.0",
     "guess-ga": "^0.4.20",
     "next": "14.2.13",
     "react": "^18",

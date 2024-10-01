@@ -6,7 +6,6 @@ import { useEffect } from "react";
 
 const useGuessPrefetch = () => {
   const router = useRouter();
-
   useEffect(() => {
     if (typeof window !== "undefined") {
       const predictions = Object.keys(guess).sort(
