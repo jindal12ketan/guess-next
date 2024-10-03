@@ -19,13 +19,18 @@ const useGuessPrefetch = () => {
 };
 
 const HomePage = () => {
-  const handleClick = (label) => {
-    gtag.event({
-      action: "click",
-      category: "navigation",
-      label,
-      value: "1",
-    });
+  // const handleClick = (label) => {
+  //   gtag.event({
+  //     action: "click",
+  //     category: "navigation",
+  //     label,
+  //     value: "1",
+  //   });
+  // };
+
+  const handleClick = (nextUrl) => {
+    const currentUrl = window.location.pathname;
+    gtag.logNavigationEvent(currentUrl, nextUrl);
   };
 
   useGuessPrefetch();
@@ -34,10 +39,11 @@ const HomePage = () => {
     <div>
       <h1>Welcome to the Home Page</h1>
       <nav>
-        <Link href="/about" onClick={() => handleClick("about_link")}>
+        {/* <Link href="/about" onClick={() => handleClick("about_link")}> */}
+        <Link href="/about" onClick={() => handleClick("/about")}>
           About
         </Link>
-        <Link href="/contact" onClick={() => handleClick("contact_link")}>
+        <Link href="/contact" onClick={() => handleClick("/contact")}>
           Contact
         </Link>
       </nav>

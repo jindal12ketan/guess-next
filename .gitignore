@@ -36,6 +36,9 @@ out/
 .env.test.local
 .env.production.local
 
+# serviceAccountKey.json
+serviceAccountKey.json
+
 # Next.js build output
 .next/
 
