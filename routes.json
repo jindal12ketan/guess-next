@@ -1,0 +1,44 @@
+{
+  "/": {
+    "/contact": 2,
+    "/about": 10,
+    "/faq": 1,
+    "/products": 7,
+    "/blog": 5
+  },
+  "/contact": {
+    "/": 4,
+    "/about": 7,
+    "/faq": 1,
+    "/products": 6,
+    "/blog": 4
+  },
+  "/about": {
+    "/": 5,
+    "/contact": 8,
+    "/faq": 1,
+    "/products": 6,
+    "/blog": 1
+  },
+  "/faq": {
+    "/": 10,
+    "/contact": 8,
+    "/about": 9,
+    "/products": 2,
+    "/blog": 7
+  },
+  "/products": {
+    "/": 4,
+    "/contact": 8,
+    "/about": 1,
+    "/faq": 2,
+    "/blog": 4
+  },
+  "/blog": {
+    "/": 1,
+    "/contact": 4,
+    "/about": 4,
+    "/faq": 3,
+    "/products": 10
+  }
+}
